@@ -13,5 +13,6 @@ dentro del EXAMEN ejecutor lo siguiente
 6. Para impotar el juego creen una carpeta llamada roms y colocan ahi el archivo md con el juego luego ejecuten: ```python3 -m retro.import roms```
 7. Esto indicara un mensaje de que el rom se ha importado a retro gym
 8. Ahora deben ejecutar el codigo de ejemplo y probar los niveles en vectorman. Parte de su trabajo sera encontrar los niveles que deben utilizar para el entrenamiento.
-9. les adjunto igualmente un ejemplo de software que se utiliza para capturar datos. Ahi esta el ejemplo de los controles. Y que significa cada posiciion del arreglo en sonic. Para ussarlo necesitaran:
-numpy, cv2 y pygame para controlar el juego
+9. Para ussarlo necesitaran Correctamente el codigo genetico son necesarias las siguientes importaciones:
+import retro, import numpy as np, import cv2, import neat,import pickle, import gym y import random
+
