@@ -5,7 +5,7 @@ Se necesita la instalación de openai retro, se hace atraves de python 3 utiliza
 Deben crear la carpeta.
 Clonen el repositorio de python usando la opcion de fork en github:https://github.com/ChristianUP18/Poryecto-inteligencia-artficial-vector-man-2/edit/main/README.md.
 1. ```git clone https://github.com/ChristianUP18/Poryecto-inteligencia-artficial-vector-man-2/edit/main/README.md```
-dentro del EXAMEN ejecutor lo siguiente
+dentro del Proyecto ejecutor lo siguiente
 2. ```virtualenv -p python3 env```
 3. ```source env/bin/activate```
 4. ```pip3 install gym-retro```
