@@ -1,4 +1,5 @@
 # Poryecto-inteligencia-artficial-vector-man-2
+Estudint: Christian Morales Cedula:8-896-891
 Algoritmo de inteligencia artificial algoritmo genético
 Intrucciones para ejecucion
 Se necesita la instalación de openai retro, se hace atraves de python 3 utilizando pip.
